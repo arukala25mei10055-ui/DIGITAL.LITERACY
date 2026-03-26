@@ -44,11 +44,14 @@ Outcome: Learned the importance of maintaining a professional digital identity.
 
 
  Task 3 – Coding & Collaboration Platforms
+ 
  Part A – Coding Platform
+ 
  Platform: HackerRank  
  Activity: Completed a beginner-level coding problem  
 
- Part B – Google Form  
+ Part B – Google Form 
+ 
  Created a Digital Literacy Awareness Quiz with 5 questions  
  Collected responses using Google Sheets  
 
@@ -58,7 +61,8 @@ Outcome: Learned the importance of maintaining a professional digital identity.
   <img width="1280" height="720" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/196deae4-b7d6-4c2a-82f4-8d752e59731b" />
 
  `task-3-platforms/google-form.png` 
- https://docs.google.com/forms/d/e/1FAIpQLSfXd3JFtpy3H9pk1HMATMNsIqcIcJcFjH7UMRYCbHcHuIpd4A/viewform?usp=publish-editor      
+ https://docs.google.com/forms/d/e/1FAIpQLSfXd3JFtpy3H9pk1HMATMNsIqcIcJcFjH7UMRYCbHcHuIpd4A/viewform?usp=publish-editor
+ 
  `task-3-platforms/responses.png`
  <img width="1280" height="720" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/71813d86-8ac2-4b54-85c4-b28746834614" />
 
@@ -92,8 +96,7 @@ https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/da3b2889121618ece6
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
-
- 
+ https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/ebfa715e86de1c2e6ccc5b96eca435e5d59dbf64/DIGITAL%20LITERACY%20PROJECT%20REPORT.pdf
  
  Tools & Platforms Used
  Canva  
@@ -104,6 +107,7 @@ The detailed report of all tasks is included in the repository.
  Google Forms  
 
  Key Learnings
+ 
  Understanding of digital literacy concepts  
  Importance of online safety and cybersecurity  
  Professional communication skills  
