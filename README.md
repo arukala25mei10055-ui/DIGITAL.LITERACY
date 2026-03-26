@@ -63,8 +63,6 @@ Outcome: Learned the importance of maintaining a professional digital identity.
  <img width="1280" height="720" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/71813d86-8ac2-4b54-85c4-b28746834614" />
 
 
-
-
  Task 4 – Email Etiquette & Social Media Checklist
  Wrote two professional emails:
   1. Request for assignment extension  
@@ -72,10 +70,9 @@ Outcome: Learned the importance of maintaining a professional digital identity.
  Created a Social Media Do’s and Don’ts checklist  
 
 Files:  
- `task-4-email-etiquette/emails.txt`  
- `task-4-email-etiquette/social-media-checklist.txt`  
-
-
+https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/da3b2889121618ece653fd89c40f0197f1e249e4/TASK%204%20Deadline%20extension.txt
+https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/da3b2889121618ece653fd89c40f0197f1e249e4/TASK%204%20Subject%20application%20for%20summer%20internship.txt
+https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/da3b2889121618ece653fd89c40f0197f1e249e4/TASK%204%20SOCIAL%20MEDIA%20CHECKISTDO'S.txt
 
  Task 5 – Cybercrime Awareness
  Case Study
@@ -86,8 +83,10 @@ Files:
  Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
- `task-5-cybercrime/casestudy.txt`  
- `task-5-cybercrime/prevention-checklist.txt`  
+ `task-5-cybercrime/casestudy.txt`
+ https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/da3b2889121618ece653fd89c40f0197f1e249e4/TASK%205%20phishing%20case%20study.txt
+ `task-5-cybercrime/prevention-checklist.txt`
+ https://github.com/arukala25mei10055-ui/DIGITAL.LITERACY/blob/da3b2889121618ece653fd89c40f0197f1e249e4/TASK%205%20Stay%20safe%20online%20-%20prevention%20checklist.txt
 
  Project Report
 The detailed report of all tasks is included in the repository.
